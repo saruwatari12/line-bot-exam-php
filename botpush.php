@@ -13,7 +13,7 @@ $pushID = 'U350187866893a58ad26bec9fc96fcce9';
 $httpClient = new \LINE\LINEBot\HTTPClient\CurlHTTPClient($access_token);
 $bot = new \LINE\LINEBot($httpClient, ['channelSecret' => $channelSecret]);
 
-$textMessageBuilder = new \LINE\LINEBot\MessageBuilder\TextMessageBuilder('สวัสดี ทุกท่าน');
+$textMessageBuilder = new \LINE\LINEBot\MessageBuilder\TextMessageBuilder('https://soundcloud.com/phuwanai-sipalat/maru-theme-song-original-official');
 $response = $bot->pushMessage($pushID, $textMessageBuilder);
 
 echo $response->getHTTPStatus() . ' ' . $response->getRawBody();
