@@ -4,8 +4,7 @@
 
 require "vendor/autoload.php";
 
-$access_token = 'YbUrvA+/RroZlucC2pTPCrEUXh/G9KYOYPVBNT3uphU2rpBb6JbGqf9zxFEPAHoDWf/1f1E8gD6RTIhxs5nNvdtCz+nisNdKyjVCOTx/6wYD/s2Ayge3qgKj9JXGZyUMNKf3rn7bn6VRdwD9o1PT8gdB04t89/1O/w1cDnyilFU=
-';
+$access_token = 'YbUrvA+/RroZlucC2pTPCrEUXh/G9KYOYPVBNT3uphU2rpBb6JbGqf9zxFEPAHoDWf/1f1E8gD6RTIhxs5nNvdtCz+nisNdKyjVCOTx/6wYD/s2Ayge3qgKj9JXGZyUMNKf3rn7bn6VRdwD9o1PT8gdB04t89/1O/w1cDnyilFU=';
 
 $channelSecret = '04665d04e76413062562c6e57a3a74bd';
 
