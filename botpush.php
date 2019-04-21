@@ -1,4 +1,4 @@
-<?php>
+<php
 require "vendor/autoload.php";
 $access_token = 'YbUrvA+/RroZlucC2pTPCrEUXh/G9KYOYPVBNT3uphU2rpBb6JbGqf9zxFEPAHoDWf/1f1E8gD6RTIhxs5nNvdtCz+nisNdKyjVCOTx/6wYD/s2Ayge3qgKj9JXGZyUMNKf3rn7bn6VRdwD9o1PT8gdB04t89/1O/w1cDnyilFU=';
 $channelSecret = '69d788c50c6ba739c01114ba429ed672';
